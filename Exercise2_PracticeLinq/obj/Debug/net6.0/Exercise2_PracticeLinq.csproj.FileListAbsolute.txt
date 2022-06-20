@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\bin\Debug\net6.0\Exercise2_PracticeLinq.exe
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\bin\Debug\net6.0\Exercise2_PracticeLinq.deps.json
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\bin\Debug\net6.0\Exercise2_PracticeLinq.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\bin\Debug\net6.0\Exercise2_PracticeLinq.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\bin\Debug\net6.0\Exercise2_PracticeLinq.pdb
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\refint\Exercise2_PracticeLinq.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.pdb
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\Exercise2_PracticeLinq.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\Exercise2_Answers_PracticeLinq\Exercise2_PracticeLinq\Exercise2_PracticeLinq\obj\Debug\net6.0\ref\Exercise2_PracticeLinq.dll
